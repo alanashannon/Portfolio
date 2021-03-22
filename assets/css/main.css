@@ -1787,6 +1787,10 @@ input, select, textarea {
 			text-decoration: underline;
 		}
 
+		.project-description {
+			padding-top: 20px; 
+		}
+
 /* Nav */
 
 	#nav {
