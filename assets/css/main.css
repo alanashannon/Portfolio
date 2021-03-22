@@ -1777,6 +1777,16 @@ input, select, textarea {
 			padding-left: 0px; 
 		}
 
+		.project-name {
+			font-size: 25px;
+			font-weight: bold;
+			color: rgb(51, 51, 51); 
+			text-decoration: none;
+		}
+		.project-name:hover {
+			text-decoration: underline;
+		}
+
 /* Nav */
 
 	#nav {
