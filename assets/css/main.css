@@ -1306,9 +1306,9 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		background-image: url("./images/84710.jpg"), url("./images/84710.jpg");
 		background-repeat: repeat, no-repeat;
-		background-size: auto, 100% 100%;
+		background-size: auto, 110%;
 		background-attachment: fixed;
 		overflow-y: scroll;
 	}
@@ -1553,6 +1553,7 @@ input, select, textarea {
 		.image img {
 			display: block;
 			width: 100%;
+			border: 1px solid rgb(245, 245, 245); 
 		}
 
 		.image.fit {
@@ -2045,8 +2046,8 @@ input, select, textarea {
 						right: 0;
 						top: 50%;
 						margin-top: -1.375em;
-						width: 2.75em;
-						height: 2.75em;
+						width: 2.0em;
+						height: 2.5em;
 						background: #000;
 						background: rgba(0, 0, 0, 0.75);
 						color: #ffffff;
@@ -2063,7 +2064,7 @@ input, select, textarea {
 						#main > .panel.intro .pic .arrow:before {
 							position: relative;
 							padding-right: 0;
-							top: 0.125em;
+							top: -0.05em;
 						}
 
 						#main > .panel.intro .pic .arrow span {
